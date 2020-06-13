@@ -1,0 +1,74 @@
+ ,Cluster,Variety,Count
+0,0,Bordeaux-style Red Blend,1305
+1,0,Cabernet Sauvignon,683
+2,0,Red Blend,2015
+3,1,Bordeaux-style Red Blend,216
+4,1,Cabernet Sauvignon,695
+5,1,Chardonnay,2695
+6,1,Pinot Noir,820
+7,1,Red Blend,400
+8,2,Bordeaux-style Red Blend,227
+9,2,Cabernet Sauvignon,586
+10,2,Chardonnay,624
+11,2,Pinot Noir,596
+12,2,Red Blend,245
+13,3,Bordeaux-style Red Blend,1475
+14,3,Cabernet Sauvignon,1689
+15,3,Chardonnay,24
+16,3,Pinot Noir,1119
+17,3,Red Blend,395
+18,4,Bordeaux-style Red Blend,333
+19,4,Cabernet Sauvignon,836
+20,4,Chardonnay,1611
+21,4,Pinot Noir,1972
+22,4,Red Blend,609
+23,5,Bordeaux-style Red Blend,46
+24,5,Cabernet Sauvignon,292
+25,5,Chardonnay,1
+26,5,Pinot Noir,302
+27,5,Red Blend,1586
+28,6,Bordeaux-style Red Blend,238
+29,6,Cabernet Sauvignon,22
+30,6,Chardonnay,1461
+31,6,Pinot Noir,296
+32,6,Red Blend,50
+33,7,Bordeaux-style Red Blend,93
+34,7,Cabernet Sauvignon,871
+35,7,Chardonnay,12
+36,7,Pinot Noir,274
+37,7,Red Blend,827
+38,8,Bordeaux-style Red Blend,1
+39,8,Cabernet Sauvignon,1
+40,8,Chardonnay,1390
+41,8,Pinot Noir,25
+42,8,Red Blend,5
+43,9,Bordeaux-style Red Blend,41
+44,9,Cabernet Sauvignon,337
+45,9,Chardonnay,677
+46,9,Pinot Noir,761
+47,9,Red Blend,210
+48,10,Bordeaux-style Red Blend,652
+49,10,Cabernet Sauvignon,142
+50,10,Chardonnay,1350
+51,10,Pinot Noir,496
+52,10,Red Blend,107
+53,11,Bordeaux-style Red Blend,1132
+54,11,Cabernet Sauvignon,116
+55,11,Chardonnay,464
+56,11,Pinot Noir,617
+57,11,Red Blend,109
+58,12,Bordeaux-style Red Blend,188
+59,12,Cabernet Sauvignon,1364
+60,12,Chardonnay,3
+61,12,Pinot Noir,2981
+62,12,Red Blend,642
+63,13,Bordeaux-style Red Blend,388
+64,13,Cabernet Sauvignon,481
+65,13,Chardonnay,16
+66,13,Pinot Noir,1325
+67,13,Red Blend,747
+68,14,Bordeaux-style Red Blend,136
+69,14,Cabernet Sauvignon,725
+70,14,Chardonnay,540
+71,14,Pinot Noir,694
+72,14,Red Blend,296
